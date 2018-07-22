@@ -1,0 +1,51 @@
+{
+  "request_id:": "",
+  "operation": "add-hotel-setup",
+  "entity": "hotel-setup",
+  "data": {
+    "hotel_id": "",
+    "hotel_attributes": {
+      "hotel_name": "",
+      "hotel_address": {
+        "address_line1": "",
+        "address_line2": "",
+        "city": "",
+        "state": "",
+        "pin_code": "",
+        "country": "",
+        "geo_location": ""
+      },
+      "hotel_room_count": "",
+      "hotel_room_doorno_format": "",
+      "hotel_employee_count": "",
+      "hotel_bed_count": "",
+      "hotel_rating": "",
+      "hotel_logo": ""
+    },
+    "hotel_registration_data": {
+      "hotel_reg_no": "",
+      "building_permit_no": "",
+      "fire_safety_permit_no": "",
+      "police_license_no": "",
+      "health_trade_license_no": "",
+      "liquor_license_no": "",
+      "fssai_license_no": "",
+      "gst_no": "",
+      "esi_reg_no": "",
+      "epf_reg_no": ""
+    },
+    "hotel_facilities": [
+      {
+        "facility_id": "",
+        "facility_name": "",
+        "facility_description": "",
+        "facility_availability": "",
+        "is_chargeable": "",
+        "facility_type": "",
+        "facility_price": "",
+        "applicable_voucher": ""
+      }
+    ],
+    "hotel_status" : ""
+  }
+}
